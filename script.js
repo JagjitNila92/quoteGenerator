@@ -19,7 +19,7 @@ let  i;
 
 /*for ( i = 'capricorn' === newSign; i++){
     console.log(`Congratulations your star sign is Capricorn and your random quote is: ${newQuote}`)
-}*/
+} Here I considered using a for loop. However, after facing many difficulties I decided to go for an IF statement. */
 
 if (newSign === 'Capricorn') {
     console.log(`Congratulations your star sign is Capricorn and your random quote is: ${newQuote}`)
