@@ -29,7 +29,8 @@ To-do list:
 * Then create If statements
 
 ## Status
-Project is: is Finished
+Project is finished! 
+However, feel free to provide me with any feedback on how I can improve this code :) 
 
 ## Inspiration
 The project was inspired by star signs and generating a quote to go along with that star sign. 
