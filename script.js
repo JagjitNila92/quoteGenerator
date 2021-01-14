@@ -1,4 +1,4 @@
-const signs = ["Capricon", "Aquarius", "pisces", "Aries", "Taurus", "Gemini", "Cancer", "Leo", "Virgo", "Libra", "Scorpio", "Sagittarius" ]
+const signs = ["Capricorn", "Aquarius", "pisces", "Aries", "Taurus", "Gemini", "Cancer", "Leo", "Virgo", "Libra", "Scorpio", "Sagittarius" ]
 
 const quotes = ["Love For All, Hatred For None",
 "Change the world by being yourself",
@@ -11,3 +11,12 @@ const quotes = ["Love For All, Hatred For None",
 "What we think, we become",
 "All limitations are self-imposed.",
 "Tough times never last but tough people do."]
+
+const newQuote = quotes[Math.floor(Math.random() * quotes.length)];
+
+const newSign = signs[Math.floor(Math.random() * signs.length)];
+
+
+console.log(newQuote);
+console.log(newSign);
+
