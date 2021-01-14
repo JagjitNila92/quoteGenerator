@@ -1,4 +1,4 @@
-# Project Name
+# Quote Generator
 > Quote Generator 
 
 ## Table of contents
