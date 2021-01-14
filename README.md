@@ -23,7 +23,8 @@ Use
 
 ## Code Examples
 Show examples of usage:
-`put-your-code-here`
+'if (newSign === 'Capricorn') {
+    console.log(`Congratulations your star sign is Capricorn and your random quote is: ${newQuote}`)'
 
 ## Features
 List of features ready and TODOs for future development
@@ -32,14 +33,15 @@ List of features ready and TODOs for future development
 * Awesome feature 3
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* First create Variables
+* Create random generator
+* Then create If statements
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project is: is Finished
 
 ## Inspiration
-Add here credits. Project inspired by..., based on...
+The project was inspired by star signs and generating a quote to go along with that star sign. 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@JagjitNila92]- feel free to contact me!
