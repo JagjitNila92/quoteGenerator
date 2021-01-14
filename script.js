@@ -14,13 +14,11 @@ const quotes = ["Love For All, Hatred For None.",
 
 const newQuote = quotes[Math.floor(Math.random() * quotes.length)];
 const newSign = signs[Math.floor(Math.random() * signs.length)];
+
+//console.log(newSign); //
+//console.log(newQuote); //
+
 let msg;
-let  i;
-
-/*for ( i = 'capricorn' === newSign; i++){
-    console.log(`Congratulations your star sign is Capricorn and your random quote is: ${newQuote}`)
-} Here I considered using a for loop. However, after facing many difficulties I decided to go for an IF statement. */
-
 if (newSign === 'Capricorn') {
     console.log(`Congratulations your star sign is Capricorn and your random quote is: ${newQuote}`)
 } if (newSign === 'Aquarius') {
@@ -47,6 +45,19 @@ if (newSign === 'Capricorn') {
     console.log(`Congratulations your star sign is Sagittarius and your random quote is: ${newQuote}`)
 } 
 
-//console.log(newSign);
-//console.log(newQuote);
 
+
+/*
+Below I have created a for loop to complete the project. This was my second method for completing the project. 
+for (let i = 0; i <= signs.length; i++) {
+    const newSign = signs[Math.floor(Math.random() * signs.length)];
+    console.log(`Your new start sign is: ${newSign}`);
+    break;
+    };
+
+for (let j = 0; j <= quotes.length; j++) {
+    const newQuote = quotes[Math.floor(Math.random() * quotes.length)];
+    console.log(`Your new quote for 2021 is: "${newQuote}"`);
+    break;
+};
+*/
