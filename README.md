@@ -4,33 +4,24 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
+* [Code Examples](#code-examples)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
-This project aims to develop a quote generator using JavaScipt. This will generate a star sign and quote to go with it! 
+This project aims to to generate a star sign and quote using JavaScript! 
 
 ## Technologies
-* TVisual Code Studio - version No idea
-* Github 
+* Visual Code Studio 
+* Github & Git
 * CodeAcademy 
-
-## Setup
-Use 
+* Node (To test function)
 
 ## Code Examples
 Show examples of usage:
 'if (newSign === 'Capricorn') {
     console.log(`Congratulations your star sign is Capricorn and your random quote is: ${newQuote}`)'
-
-## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
 
 To-do list:
 * First create Variables
